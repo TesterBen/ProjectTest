@@ -1,8 +1,8 @@
 12345
 abcde
 gggggggggg¨þ¨þ
-§ó§ïB1
-B1B1
 
-
-B1 ^^
+public ActionResult Test(int id)
+{
+	return View();
+}
